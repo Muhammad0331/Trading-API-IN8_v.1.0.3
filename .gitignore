@@ -1,5 +1,5 @@
 # sensitive environment information
-.env
+.env 
 data.pickle
 
 # build and distribution files that are auto-generated
